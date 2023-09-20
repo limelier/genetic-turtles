@@ -5,7 +5,7 @@ This program is an attempt to use genetic programming to create programs that, w
 It served as the implementation side of my bachelor's thesis. As it turned out, my attempts never produced very
 successful results, but I thought the program itself may be worth publishing.
 
-Thank you to my coordinating professor, Lect. Dr. Croitoru Eugen, for his guidance with this project.
+Thank you to my coordinating professor, Lect. Dr. Croitoru Eugen, for their guidance with this project.
 
 ## Working constraints
 The robots are specifically inspired by the [turtles from ComputerCraft](https://www.computercraft.info/wiki/Turtle), a
